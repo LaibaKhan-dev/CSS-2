@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Tilt+Prism&display=swap');
+div{
+    height: 50vh;
+    width: 100vw;
+    color: black;
+    background-color: aquamarine;
+}
+p{
+    color: black;
+    font-size: 50px;
+    font-weight: 700;
+    font-family: 'Tilt Prism', cursive;
+    font-style: italic;
+    border-width: 2px;
+    border-style: double;
+    border-color: red;
+    border-radius: 20px;
+}
+div p{
+    color: blue;
+}
+div p.para{
+    color: brown;
+}
